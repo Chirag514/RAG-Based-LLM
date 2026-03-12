@@ -64,7 +64,7 @@ RAG-LLM-APP
 Clone the repository
 
 git clone https://github.com/Chirag514/RAG-Based-LLM.git  
-cd RAG-LLM-APP  
+cd RAG-Based-LLM
 
 Install dependencies
 
