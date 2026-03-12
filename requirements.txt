@@ -1,0 +1,11 @@
+streamlit==1.36.0
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-chroma==0.1.4
+langchain-huggingface==0.0.3
+langchain-groq==0.1.9
+pypdf==4.2.0
+beautifulsoup4==4.12.3
+chromadb==0.5.3
+sentence-transformers==3.0.1
+python-dotenv==1.0.1
